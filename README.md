@@ -1,8 +1,7 @@
-* Leaderboard is already available on http://35.198.88.195:8080/Leaderboard-1.0/leaderboard
-with 5,000,000+ randomly generated players.
+### High Performance Leaderboard 
 
 
-* The deployed version is designed to be work as a single instance.
-But if you want to deploy on local system or anywhere else, with Redis Client pool
-  you can find the necessary instructions at **JedisFactory** class.
-  
+
+* This project is made for an interview case where all responses should be under 1 second.
+
+* Current version is tested with 5,000,000 unique players and works under 1 second in each operation.
