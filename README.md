@@ -8,4 +8,4 @@
 
 * Redis Sorted Sets are used in order to provide faster ranking ( **O(log N)** ).
 
-* Each user is saved to two different sorted set as **World** and **COUNTRY_ISO_CODE** to be able to give local rankings quickly.
+* Each user is saved to two different sorted sets as **World** and **COUNTRY_ISO_CODE** to be able to give local rankings quickly.
